@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jyotsna Choudhary 👋</h1>
+<h1 align="center">Hi, I'm Jyotsna 👋</h1>
 <h3 align="center">Data Science professional building practical AI — LLM apps, agents and RAG systems</h3>
 
 <p align="center">
