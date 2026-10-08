@@ -45,7 +45,7 @@
 ### 📊 GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JYOTSNACHOUDHARY&show_icons=true&hide_border=true&theme=transparent&hide=contribs,commits" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JYOTSNACHOUDHARY&show_icons=true&hide_border=true&theme=transparent&hide=contribs,commits&hide_rank=true" />
   <img src="assets/languages.svg" />
 </p>
 <p>
