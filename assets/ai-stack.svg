@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="265" viewBox="0 0 495 265" role="img" aria-label="AI and ML stack by number of projects: GenAI and LLM apps 3, deep learning 3, classic ML and NLP 2, data analysis 4, app UIs and APIs 3">
+  <style>
+    .bg{fill:#ffffff;stroke:#e4e2e2}
+    .title{font:600 18px 'Segoe UI',Ubuntu,Sans-Serif;fill:#2f80ed}
+    .sub{font:400 12px 'Segoe UI',Ubuntu,Sans-Serif;fill:#6a737d}
+    .cat{font:600 13px 'Segoe UI',Ubuntu,Sans-Serif;fill:#434d58}
+    .libs{font:400 11px 'Segoe UI',Ubuntu,Sans-Serif;fill:#6a737d}
+    .num{font:600 13px 'Segoe UI',Ubuntu,Sans-Serif;fill:#434d58}
+    .bar{fill:#2f80ed}
+    .track{fill:#eef1f4}
+    @media (prefers-color-scheme: dark){.bg{fill:#0d1117;stroke:#30363d}.title{fill:#58a6ff}.sub,.libs{fill:#8b949e}.cat,.num{fill:#c9d1d9}.bar{fill:#58a6ff}.track{fill:#21262d}}
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="494" height="264" rx="4.5"/>
+  <text class="title" x="25" y="35">AI / ML Stack</text>
+  <text class="sub" x="25" y="55">3 LLM apps · 1 RAG pipeline · 1 LangGraph agent workflow · bars = projects</text>
+
+  <text class="cat" x="25" y="85">GenAI &amp; LLM apps</text>
+  <text class="libs" x="25" y="100">OpenAI · LangChain · LangGraph · LangSmith · Chroma</text>
+  <rect class="track" x="310" y="82" width="120" height="10" rx="5"/><rect class="bar" x="310" y="82" width="90" height="10" rx="5"/>
+  <text class="num" x="440" y="92">3</text>
+
+  <text class="cat" x="25" y="121">Deep learning</text>
+  <text class="libs" x="25" y="136">TensorFlow · Keras · PyTorch · Transformers</text>
+  <rect class="track" x="310" y="118" width="120" height="10" rx="5"/><rect class="bar" x="310" y="118" width="90" height="10" rx="5"/>
+  <text class="num" x="440" y="128">3</text>
+
+  <text class="cat" x="25" y="157">Classic ML &amp; NLP</text>
+  <text class="libs" x="25" y="172">scikit-learn · NLTK</text>
+  <rect class="track" x="310" y="154" width="120" height="10" rx="5"/><rect class="bar" x="310" y="154" width="60" height="10" rx="5"/>
+  <text class="num" x="440" y="164">2</text>
+
+  <text class="cat" x="25" y="193">Data analysis</text>
+  <text class="libs" x="25" y="208">Pandas · NumPy</text>
+  <rect class="track" x="310" y="190" width="120" height="10" rx="5"/><rect class="bar" x="310" y="190" width="120" height="10" rx="5"/>
+  <text class="num" x="440" y="200">4</text>
+
+  <text class="cat" x="25" y="229">App UIs &amp; APIs</text>
+  <text class="libs" x="25" y="244">Gradio · Streamlit · Flask</text>
+  <rect class="track" x="310" y="226" width="120" height="10" rx="5"/><rect class="bar" x="310" y="226" width="90" height="10" rx="5"/>
+  <text class="num" x="440" y="236">3</text>
+</svg>

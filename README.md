@@ -45,8 +45,11 @@
 ### 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JYOTSNACHOUDHARY&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYOTSNACHOUDHARY&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JYOTSNACHOUDHARY&show_icons=true&hide_border=true&theme=transparent&hide=contribs,commits" />
+  <img src="assets/languages.svg" />
+</p>
+<p>
+  <img src="assets/ai-stack.svg" />
 </p>
 
 ---

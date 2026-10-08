@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="120" viewBox="0 0 495 120" role="img" aria-label="Most used languages: Python (including Jupyter notebooks) 99.8%, HTML 0.2%">
+  <style>
+    .bg{fill:#ffffff;stroke:#e4e2e2}
+    .title{font:600 18px 'Segoe UI',Ubuntu,Sans-Serif;fill:#2f80ed}
+    .label{font:400 13px 'Segoe UI',Ubuntu,Sans-Serif;fill:#434d58}
+    @media (prefers-color-scheme: dark){.bg{fill:#0d1117;stroke:#30363d}.title{fill:#58a6ff}.label{fill:#c9d1d9}}
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="494" height="119" rx="4.5"/>
+  <text class="title" x="25" y="35">Most Used Languages</text>
+  <clipPath id="bar"><rect x="25" y="52" width="445" height="8" rx="4"/></clipPath>
+  <g clip-path="url(#bar)">
+    <rect x="25" y="52" width="441" height="8" fill="#3572A5"/>
+    <rect x="466" y="52" width="4" height="8" fill="#e34c26"/>
+  </g>
+  <circle cx="30" cy="87" r="5" fill="#3572A5"/>
+  <text class="label" x="42" y="92">Python (incl. Jupyter notebooks) 99.8%</text>
+  <circle cx="340" cy="87" r="5" fill="#e34c26"/>
+  <text class="label" x="352" y="92">HTML 0.2%</text>
+</svg>
