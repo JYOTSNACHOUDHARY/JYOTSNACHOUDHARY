@@ -8,7 +8,6 @@
   <a href="https://www.youtube.com/@LearnHiddenLayers"><img src="https://img.shields.io/badge/YouTube-Learn%20Hidden%20Layers-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
   <a href="mailto:jyotsnachoudhary719@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
----
 
 ### 🧠 About me
 
