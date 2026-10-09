@@ -8,9 +8,6 @@
   <a href="https://www.youtube.com/@LearnHiddenLayers"><img src="https://img.shields.io/badge/YouTube-Learn%20Hidden%20Layers-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
   <a href="mailto:jyotsnachoudhary719@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
-
-https://github.com/user-attachments/assets/871fe9ff-62ae-4382-8e1c-f29b05c881c3
-
 ---
 
 ### 🧠 About me
@@ -29,6 +26,8 @@ https://github.com/user-attachments/assets/871fe9ff-62ae-4382-8e1c-f29b05c881c3
 | [**LLM**](https://github.com/JYOTSNACHOUDHARY/LLM) | Building systems with ChatGPT: prompting, chaining, moderation and evaluation | OpenAI API · Python |
 | [**CodeWise**](https://github.com/JYOTSNACHOUDHARY/CodeWise) | AI-powered coding assistant that understands your codebase and helps you explore, improve and build on it through context-aware conversations | Python · LLMs · RAG |
 | [**NLP-Projects**](https://github.com/JYOTSNACHOUDHARY/NLP-Projects) | Hands-on NLP notebooks | Python · NLP |
+
+https://github.com/user-attachments/assets/871fe9ff-62ae-4382-8e1c-f29b05c881c3
 
 ### 🛠️ Tech stack
 
