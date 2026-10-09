@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/871fe9ff-62ae-4382-8e1c-f29b05c881c3
+
 <h1 align="center">Hi, I'm Jyotsna 👋</h1>
 <h3 align="center">Data Science professional building practical AI — LLM apps, agents and RAG systems</h3>
 
