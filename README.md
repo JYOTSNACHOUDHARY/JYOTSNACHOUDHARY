@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/871fe9ff-62ae-4382-8e1c-f29b05c881c3
-
 <h1 align="center">Hi, I'm Jyotsna 👋</h1>
 <h3 align="center">Data Science professional building practical AI — LLM apps, agents and RAG systems</h3>
 
@@ -11,6 +8,8 @@ https://github.com/user-attachments/assets/871fe9ff-62ae-4382-8e1c-f29b05c881c3
   <a href="https://www.youtube.com/@LearnHiddenLayers"><img src="https://img.shields.io/badge/YouTube-Learn%20Hidden%20Layers-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
   <a href="mailto:jyotsnachoudhary719@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
+
+https://github.com/user-attachments/assets/871fe9ff-62ae-4382-8e1c-f29b05c881c3
 
 ---
 
