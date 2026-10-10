@@ -15,6 +15,7 @@
 - 💼 I work in data science and drive AI initiatives that ship real results across industries
 - 🤖 Currently focused on **LLM engineering**: RAG pipelines, agentic workflows, and LLM observability
 - 🎥 I share AI learning guides on my YouTube channel, **[Learn Hidden Layers](https://www.youtube.com/@LearnHiddenLayers)**
+- ✍️ I write about AI and LLM engineering on **[Medium](https://medium.com/@jyotsna.a.choudhary)**
 - 🤝 Open to collaborating on GenAI projects and exploring new opportunities
 
 ### 🚀 Featured projects
