@@ -22,12 +22,11 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**agent-regression-tester**](https://github.com/JYOTSNACHOUDHARY/agent-regression-tester) | Regression testing for LLM agents: records real runs, replays them after prompt, model or tool changes, and flags regressions on pull requests with deterministic checks plus a checklist LLM judge | Python · LangGraph · LLM-as-judge · GitHub Actions |
 | [**startupIdeaGenerator**](https://github.com/JYOTSNACHOUDHARY/startupIdeaGenerator) | LLM workflow that generates and validates startup ideas for a domain using market-research tools | Python · LLMs · Agents |
+| [**agent-regression-tester**](https://github.com/JYOTSNACHOUDHARY/agent-regression-tester) | Regression testing for LLM agents: records real runs, replays them after prompt, model or tool changes, and flags regressions on pull requests with deterministic checks plus a checklist LLM judge | Python · LangGraph · LLM-as-judge · GitHub Actions |
+| [**CodeWise**](https://github.com/JYOTSNACHOUDHARY/CodeWise) | AI-powered coding assistant that understands your codebase and helps you explore, improve and build on it through context-aware conversations | Python · LLMs · RAG |
 | [**the-hidden-layers-resources**](https://github.com/JYOTSNACHOUDHARY/the-hidden-layers-resources) | AI learning guides and notebooks from my YouTube videos | Jupyter · Python |
 | [**LLM**](https://github.com/JYOTSNACHOUDHARY/LLM) | Building systems with ChatGPT: prompting, chaining, moderation and evaluation | OpenAI API · Python |
-| [**CodeWise**](https://github.com/JYOTSNACHOUDHARY/CodeWise) | AI-powered coding assistant that understands your codebase and helps you explore, improve and build on it through context-aware conversations | Python · LLMs · RAG |
-| [**NLP-Projects**](https://github.com/JYOTSNACHOUDHARY/NLP-Projects) | Hands-on NLP notebooks | Python · NLP |
 
 https://github.com/user-attachments/assets/871fe9ff-62ae-4382-8e1c-f29b05c881c3
 
