@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Location-Bengaluru-blue?style=flat-square" />
   <a href="https://www.linkedin.com/in/jyotsna-c/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@LearnHiddenLayers"><img src="https://img.shields.io/badge/YouTube-Learn%20Hidden%20Layers-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://medium.com/@jyotsna.a.choudhary"><img src="https://img.shields.io/badge/Medium-Blog-000000?style=flat-square&logo=medium&logoColor=white" /></a>
   <a href="mailto:jyotsnachoudhary719@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
