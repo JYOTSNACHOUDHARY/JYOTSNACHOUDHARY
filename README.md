@@ -1,20 +1,21 @@
-<h1 align="center">Hi, I'm Jyotsna Choudhary 👋</h1>
+
+<h1 align="center">Hi, I'm Jyotsna 👋</h1>
 <h3 align="center">Data Science professional building practical AI — LLM apps, agents and RAG systems</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Bengaluru-blue?style=flat-square" />
   <a href="https://www.linkedin.com/in/jyotsna-c/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@LearnHiddenLayers"><img src="https://img.shields.io/badge/YouTube-Learn%20Hidden%20Layers-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://medium.com/@jyotsna.a.choudhary"><img src="https://img.shields.io/badge/Medium-Blog-000000?style=flat-square&logo=medium&logoColor=white" /></a>
   <a href="mailto:jyotsnachoudhary719@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
-
----
 
 ### 🧠 About me
 
 - 💼 I work in data science and drive AI initiatives that ship real results across industries
 - 🤖 Currently focused on **LLM engineering**: RAG pipelines, agentic workflows, and LLM observability
 - 🎥 I share AI learning guides on my YouTube channel, **[Learn Hidden Layers](https://www.youtube.com/@LearnHiddenLayers)**
+- ✍️ I write about AI and LLM engineering on **[Medium](https://medium.com/@jyotsna.a.choudhary)**
 - 🤝 Open to collaborating on GenAI projects and exploring new opportunities
 
 ### 🚀 Featured projects
@@ -27,6 +28,8 @@
 | [**LLM**](https://github.com/JYOTSNACHOUDHARY/LLM) | Building systems with ChatGPT: prompting, chaining, moderation and evaluation | OpenAI API · Python |
 | [**CodeWise**](https://github.com/JYOTSNACHOUDHARY/CodeWise) | AI-powered coding assistant that understands your codebase and helps you explore, improve and build on it through context-aware conversations | Python · LLMs · RAG |
 | [**NLP-Projects**](https://github.com/JYOTSNACHOUDHARY/NLP-Projects) | Hands-on NLP notebooks | Python · NLP |
+
+https://github.com/user-attachments/assets/871fe9ff-62ae-4382-8e1c-f29b05c881c3
 
 ### 🛠️ Tech stack
 
