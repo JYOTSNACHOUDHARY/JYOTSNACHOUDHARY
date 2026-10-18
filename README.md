@@ -3,6 +3,7 @@
 <h3 align="center">Data Science professional building practical AI — LLM apps, agents and RAG systems</h3>
 
 <p align="center">
+  <a href="https://jyotsnachoudhary.github.io"><img src="https://img.shields.io/badge/Portfolio-jyotsnachoudhary.github.io-8E2F45?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Bengaluru-blue?style=flat-square" />
   <a href="https://www.linkedin.com/in/jyotsna-c/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@LearnHiddenLayers"><img src="https://img.shields.io/badge/YouTube-Learn%20Hidden%20Layers-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
@@ -12,6 +13,7 @@
 
 ### 🧠 About me
 
+- 🌐 See my work and case studies on my portfolio: **[jyotsnachoudhary.github.io](https://jyotsnachoudhary.github.io)**
 - 💼 I work in data science and drive AI initiatives that ship real results across industries
 - 🤖 Currently focused on **LLM engineering**: RAG pipelines, agentic workflows, and LLM observability
 - 🎥 I share AI learning guides on my YouTube channel, **[Learn Hidden Layers](https://www.youtube.com/@LearnHiddenLayers)**
@@ -24,7 +26,7 @@
 |---|---|---|
 | [**startupIdeaGenerator**](https://github.com/JYOTSNACHOUDHARY/startupIdeaGenerator) | LLM workflow that generates and validates startup ideas for a domain using market-research tools | Python · LLMs · Agents |
 | [**agent-regression-tester**](https://github.com/JYOTSNACHOUDHARY/agent-regression-tester) | Regression testing for LLM agents: records real runs, replays them after prompt, model or tool changes, and flags regressions on pull requests with deterministic checks plus a checklist LLM judge | Python · LangGraph · LLM-as-judge · GitHub Actions |
-| [**CodeWise**](https://github.com/JYOTSNACHOUDHARY/CodeWise) | AI-powered coding assistant that understands your codebase and helps you explore, improve and build on it through context-aware conversations | Python · LLMs · RAG |
+| [**CodeWise**](https://github.com/JYOTSNACHOUDHARY/CodeWise) · [live demo](https://huggingface.co/spaces/jyotsnaa/CodeWise) | AI-powered coding assistant that understands your codebase and helps you explore, improve and build on it through context-aware conversations | Python · LLMs · RAG |
 | [**the-hidden-layers-resources**](https://github.com/JYOTSNACHOUDHARY/the-hidden-layers-resources) | AI learning guides and notebooks from my YouTube videos | Jupyter · Python |
 | [**LLM**](https://github.com/JYOTSNACHOUDHARY/LLM) | Building systems with ChatGPT: prompting, chaining, moderation and evaluation | OpenAI API · Python |
 
